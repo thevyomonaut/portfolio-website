@@ -91,13 +91,13 @@ nav {
   }
 
   .hero {
-    padding: 3px;
+    padding: 1.2rem;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 5rem;
     max-width: 70rem;
-    margin: auto;
+    margin: 5rem;
     color: #f8f8f8;
   }
 
