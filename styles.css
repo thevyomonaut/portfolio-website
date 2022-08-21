@@ -1,6 +1,6 @@
 /* Variables */
 :root {
-    --font-family: "Open Sans", sans-serif;
+    font-family: 'Open Sans', sans-serif;
     --color-primary: #191d2b;
     --color-secondary:#5DADE2 ;
     --color-white: #FFFFFF;
