@@ -250,6 +250,11 @@ nav {
     margin-bottom: var(--bottom-margin);
   }
 
+  .blog-pic {
+      width: 65%;
+      height: 60%;
+}
+
   .blog-card {
     background-color: var(--color-grey-2);
     border-radius: 11px;
