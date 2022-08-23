@@ -248,6 +248,7 @@ nav {
 
   .blog-title {
     margin-bottom: var(--bottom-margin);
+    color: var(--color-primary);
   }
 
   .blog-pic {
@@ -259,7 +260,7 @@ nav {
     background-color: var(--color-grey-2);
     border-radius: 11px;
     box-shadow: 0 3px 10px var(--primary-shadow);
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
   }
 
