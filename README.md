@@ -1,2 +1,2 @@
 # portfolio-website
-Portfolio website built using HTML, CSS and JavaScript
+Static portfolio website built using HTML and CSS.
